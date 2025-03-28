@@ -30,8 +30,14 @@ Backend – Part 2
 
 ---
 
-## 💬 Notes
+## Notes
 
 This was my first time doing a fullstack project like this alone.  
-It’s not perfect, but I’m proud of the result. 🙌
+It’s not perfect, but I’m proud of the result.
+
+## Author
+
+Created by **Mira Nuotio**  
+Information Technology student  
+Still learning, but already doing!
 
